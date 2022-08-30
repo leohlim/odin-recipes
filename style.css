@@ -1,0 +1,28 @@
+* {
+    font-family: "Helvetica", sans-serif;
+}
+
+.title {
+    background-color: coral;
+    color: white;
+    font-size: 40px;
+    font-style: italic, bold;
+    margin: 70px;
+    display: inline-block;
+    padding: 4px;
+    font-family: "Futura", sans-serif;
+}
+
+.recipe {
+   font-family: "Helvetica", sans-serif;
+   font-size: 22px;
+   font-style: italic;
+   color: black;
+   display: block;
+   margin: 70px;
+}
+
+.hero {
+    margin-right: auto;
+    display: inline-block;
+}
